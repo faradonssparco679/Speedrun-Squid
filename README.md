@@ -208,4 +208,4 @@ This repository serves as the official landing page for Speedrun Squid. The soft
 **Get the most recent version of Speedrun Squid today!**
 
 ---
-**Last updated:** 2026-11-07 22:26:03 UTC
+**Last updated:** 2026-11-08 01:57:06 UTC
